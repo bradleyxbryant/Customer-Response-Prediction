@@ -1,4 +1,4 @@
-## Customer Response Prediction ##
+# Customer Response Prediction
 
 This project analyzes and predicts which customers are most likely to respond to a direct marketing campaign, using data from the [Kaggle Customer Personality Analysis dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis). The dataset includes customer demographics, purchase history, and past campaign interactions—enabling data-driven modeling of customer behavior and marketing outcomes.
 
